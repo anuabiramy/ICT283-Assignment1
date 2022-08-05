@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1635161148 source:c:\my stuff\dont open\school\2021-2022\ict283\labwork\assignment1\main.cpp
+	"Vector.h"
+	"WeatherLog.h"
+	"Parse.h"
+	<string>
+	<iostream>
+	<fstream>
+	<ostream>
+	<sstream>
+	<exception>
+
+1635151203 source:c:\my stuff\dont open\school\2021-2022\ict283\labwork\assignment1\src\vectortest.cpp
+	"vector.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1635078087 source:c:\my stuff\dont open\school\2021-2022\ict283\labwork\assignment1\src\date.cpp
+	"Date.h"
+
+1635080338 c:\my stuff\dont open\school\2021-2022\ict283\labwork\assignment1\include\date.h
+	<string>
+	<iostream>
+
+1635150456 source:c:\my stuff\dont open\school\2021-2022\ict283\labwork\assignment1\src\datetest.cpp
+	"Date.h"
+	<iostream>
+	<string>
+
+1635077553 source:c:\my stuff\dont open\school\2021-2022\ict283\labwork\assignment1\src\time.cpp
+	"time.h"
+
+1635082006 c:\my stuff\dont open\school\2021-2022\ict283\labwork\assignment1\include\time.h
+	<string>
+	<iostream>
+
+1635150693 source:c:\my stuff\dont open\school\2021-2022\ict283\labwork\assignment1\src\timetest.cpp
+	"time.h"
+	<iostream>
+	<string>
+	<exception>
+
+1635143268 c:\my stuff\dont open\school\2021-2022\ict283\labwork\assignment1\include\vector.h
+	<string>
+
+1635077489 source:c:\my stuff\dont open\school\2021-2022\ict283\labwork\assignment1\src\weatherlog.cpp
+	"WeatherLog.h"
+
+1635084180 c:\my stuff\dont open\school\2021-2022\ict283\labwork\assignment1\include\weatherlog.h
+	"Date.h"
+	"Time.h"
+	<string>
+	<iostream>
+
+1635153560 source:c:\my stuff\dont open\school\2021-2022\ict283\labwork\assignment1\src\weatherlogtest.cpp
+	"WeatherLog.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1635013949 c:\my stuff\dont open\school\2021-2022\ict283\labwork\assignment1\include\weatherlogtest.h
+
+1635078002 source:c:\my stuff\dont open\school\2021-2022\ict283\labwork\assignment1\src\parse.cpp
+	"Parse.h"
+
+1635081718 c:\my stuff\dont open\school\2021-2022\ict283\labwork\assignment1\include\parse.h
+	<string>
+	<iostream>
+	<sstream>
+	<iterator>
+

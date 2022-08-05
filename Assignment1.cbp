@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Assignment1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Assignment1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Assignment1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Date.h" />
+		<Unit filename="include/Parse.h" />
+		<Unit filename="include/Time.h" />
+		<Unit filename="include/Vector.h" />
+		<Unit filename="include/WeatherLog.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Date.cpp" />
+		<Unit filename="src/DateTest.cpp" />
+		<Unit filename="src/Parse.cpp" />
+		<Unit filename="src/Time.cpp" />
+		<Unit filename="src/TimeTest.cpp" />
+		<Unit filename="src/VectorTest.cpp" />
+		<Unit filename="src/WeatherLog.cpp" />
+		<Unit filename="src/WeatherLogTest.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
